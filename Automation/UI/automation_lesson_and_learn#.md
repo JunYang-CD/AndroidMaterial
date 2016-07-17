@@ -169,7 +169,7 @@ It is highly recommended by Google to disable all animation on testing device be
       * Use `Option2` mentioned in setction `How to disable animation on testing device?` and **disable animation one time only before running the first test case**. 
 
 	***Finally we get all test cases passed on each device, Cheers!***
-	<image src="./automation/testReport.jpg">
+	<image src="./asset/testReport.jpg">
 
 ## Conclusion ##
 
